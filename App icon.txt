@@ -1,0 +1,11 @@
+change app icon :
+1)Select icon
+2)app icon geneator
+https://appicon.co/
+3)folder unzip
+4)andriod=>files copy
+5)paste in folder=>android>app>src>main>res>
+
+6)ios=>Assets.xcassets>files =copy
+
+7)ios>mapapp\Images.xcassets\AppIcon.appiconset>paste
